@@ -1,0 +1,745 @@
+@media screen and (max-width:1917px){ 
+
+    .navbar-collapse{ 
+  
+      padding-left: 700px; 
+  
+    }
+    .men .content{
+      padding-left: 50px;
+    }
+  
+    .modely{ 
+  
+      padding-left: 900px; 
+  
+    } 
+    .imgg img{
+      margin-left: 370px;
+    }
+    .usbb{
+      margin-left: 380px;
+    }
+    .img2 img{
+      margin-left: 150px;
+    }
+    .img3 img{
+      margin-left: 200px;
+    }
+    .iv{
+      padding-top: 100px;
+    }
+    .ss{
+      margin-left: 300px;
+    }
+  
+  } 
+  
+  @media screen and (max-width:1700px){ 
+  
+    .navbar-collapse{ 
+  
+      padding-left: 500px; 
+  
+    } 
+  
+    .modely{ 
+  
+      padding-left: 650px; 
+  
+    } 
+  
+  } 
+  @media screen and (max-width:1550px){
+    .ss{
+      margin-left: 200px;
+    }
+    .img4 img{
+      margin-left: 200px;
+    }
+    .imgg img{
+      margin-left: 270px;
+    }
+    .usbb{
+      margin-left: 280px;
+    }
+    .img2 img{
+      margin-left: 50px;
+    }
+    .img3 img{
+      margin-left: 100px;
+    }
+    .iv{
+      padding-top: 100px;
+    }
+    .men{
+      left: 100px;
+    }
+  }
+  @media screen and (max-width:1400px){ 
+  
+    .men{ 
+  
+      display: none; 
+  
+    } 
+  
+    .men .content{ 
+  
+      display: none; 
+  
+    } 
+  
+    .img4 img{ 
+  
+      margin-left: 200px; 
+  
+    } 
+  
+  } 
+  
+  @media screen and (max-width:1350px){ 
+  
+    .navbar-collapse{ 
+  
+      padding-left: 400px; 
+  
+    } 
+  
+    .modely{ 
+  
+      padding-left: 580px; 
+  
+    } 
+  
+     
+  
+  } 
+  @media screen and (max-width:1300px){
+    .ss{
+      margin-left: 200px;
+    }
+    .img4 img{
+      margin-left: 100px;
+    }
+    .imgg img{
+      margin-left: 170px;
+    }
+    .usbb{
+      margin-left: 180px;
+    }
+    .img2 img{
+      margin-left: 50px;
+    }
+    .img3 img{
+      margin-left: 0px;
+    }
+    .iv{
+      padding-top: 100px;
+    }
+  }
+  
+  @media screen and (max-width:1150px){ 
+  
+    .navbar-collapse{ 
+  
+      padding-left: 300px; 
+  
+    } 
+  
+    .modely{ 
+  
+      padding-left: 480px; 
+  
+    } 
+  
+    .imgg img{ 
+  
+      margin-left: 90px; 
+  
+    } 
+  
+    .img2 img{ 
+  
+      margin-left: 50px; 
+  
+    } 
+  
+    .usbb{ 
+  
+      margin-left: 100px; 
+  
+    } 
+  
+    .iv{ 
+  
+      margin-left: 50px; 
+  
+      padding-top: 100px; 
+  
+    } 
+  
+    .img4 img{ 
+  
+      margin-left: 100px; 
+  
+    } 
+  
+    .tes .tess{ 
+  
+      margin-left: 360px; 
+  
+    } 
+    .ss{
+      margin-left: 100px;
+    }
+  
+  } 
+  
+  @media screen and (max-width:1080px){ 
+  
+    .imgg img{ 
+  
+      margin-left: 30px; 
+  
+    } 
+  
+    .img2 img{ 
+  
+      margin-left: 50px; 
+  
+    } 
+  
+    .usbb{ 
+  
+      margin-left: 50px; 
+  
+    } 
+  
+    .iv{ 
+  
+      margin-left: 0px; 
+  
+      padding-top: 100px; 
+  
+    } 
+  
+    .img4 img{ 
+  
+      margin-left: 20px; 
+  
+    } 
+  
+    .tes .tess{ 
+  
+      margin-left: 300px; 
+  
+    } 
+  
+  } 
+  
+  @media screen and (max-width:1000px){ 
+  
+    .navbar-collapse a{ 
+  
+      display: none; 
+  
+    } 
+  
+    .usbb{ 
+  
+      margin-left: 30px; 
+  
+    } 
+  
+    .imgg img{ 
+  
+      width: 350px; 
+  
+    } 
+  
+    .usb{ 
+  
+      margin-left: 10px; 
+  
+    } 
+  
+    .iv{ 
+  
+      margin-left: -100px; 
+  
+      padding-top: 100px; 
+  
+    } 
+  
+    .ss{ 
+  
+      display: none; 
+  
+    } 
+  
+    .img4 img{ 
+  
+      margin-left: 140px; 
+  
+    } 
+  
+    .tes .tess{ 
+  
+      margin-left: 250px; 
+  
+    
+    } 
+    .carousel-item img{
+      height: 600px;
+    }
+    .carousel-slide{
+      height: 600px;
+    }
+    .carousel-inner{
+      background-color: black;
+    }
+  
+  } 
+  
+  @media screen and (max-width:880px){ 
+  
+    .modely{ 
+  
+      padding-left: 380px; 
+  
+    } 
+  
+    .usbb{ 
+  
+      margin-left: 0px; 
+  
+    } 
+  
+    .imgg img{ 
+  
+      width: 350px; 
+  
+    } 
+  
+    .usb{ 
+  
+      width: 300px; 
+  
+      margin-left: 50px; 
+  
+    } 
+  
+    .iv{ 
+  
+      margin-left: -100px; 
+  
+      padding-top: 100px; 
+  
+    } 
+  
+    .ss{ 
+  
+      display: none; 
+  
+    } 
+  
+    .img4 img{ 
+  
+      margin-left: 140px; 
+  
+    } 
+  
+    .tes .tess{ 
+  
+      margin-left: 250px; 
+  
+    } 
+  
+    .img2 img{ 
+  
+      margin-left: 0px; 
+  
+    } 
+  
+    .img3 img{ 
+  
+      margin-left:-100px ; 
+  
+    } 
+  
+  } 
+  
+  @media screen and (max-width:780px){ 
+  
+    .modely{ 
+  
+      padding-left: 340px; 
+  
+    } 
+  
+    .usbb{ 
+  
+      margin-left: 0px; 
+  
+    } 
+  
+    .imgg img{ 
+  
+      width: 350px; 
+  
+    } 
+  
+    .usb{ 
+  
+      width: 300px; 
+  
+      margin-left: 10px; 
+  
+    } 
+  
+    .iv{ 
+  
+      margin-left: -100px; 
+  
+      padding-top: 100px; 
+  
+    } 
+  
+    .ss{ 
+  
+      display: none; 
+  
+    } 
+  
+    .img4 img{ 
+  
+      margin-left: 140px; 
+  
+    } 
+  
+    .tes .tess{ 
+  
+      margin-left: 250px; 
+  
+    } 
+  
+    .img2 img{ 
+  
+      margin-left: -100px; 
+  
+    } 
+  
+  } 
+  
+  @media screen and (max-width:760px){ 
+  
+    .img3 img{ 
+  
+      margin-left:-100px ; 
+  
+      width: 600px; 
+  
+    } 
+  
+    .img4 img{ 
+  
+      margin-left: 60px; 
+  
+    } 
+  
+  } 
+  
+  @media screen and (max-width:680px){ 
+  
+    .modely{ 
+  
+      padding-left: 300px; 
+  
+    } 
+    .carousel-item img{
+      height: 500px;
+    }
+    .carousel-slide{
+      height: 500px;
+    }
+    .carousel-inner{
+      background-color: black;
+    }
+  
+  
+  } 
+  
+  @media screen and (max-width:650px){ 
+  
+    .img3 img{ 
+  
+      margin-left:-80px ; 
+  
+      width: 500px; 
+  
+    } 
+  
+    .img4 img{ 
+  
+      width: 450px; 
+  
+      margin-left: 70px; 
+  
+    } 
+  
+    .iv{ 
+  
+      margin-left: -100px; 
+  
+      padding-top: 0px; 
+  
+    } 
+  
+    .usb{ 
+  
+      font-size: 10px; 
+  
+      width: 190px; 
+  
+    } 
+  
+    .usbb{ 
+  
+      font-size: 10px; 
+  
+      width: 190px; 
+  
+    } 
+  
+    .img2 img{ 
+  
+      margin-left: 0px; 
+  
+    } 
+  
+    .har{ 
+  
+       
+  
+      font-size: 10px; 
+  
+    } 
+  
+    .har p{ 
+  
+      width: 500px; 
+  
+      margin-left: 50px; 
+  
+    } 
+  
+  } 
+  
+  @media screen and (max-width:580px){ 
+  
+    .modely{ 
+  
+      padding-left: 260px; 
+  
+    } 
+  
+    .iv{ 
+  
+      font-size: 12px; 
+  
+      padding-top: 50px; 
+  
+    } 
+  
+    .iv button{ 
+  
+      width: 130px; 
+  
+    } 
+  
+    .imgg img{ 
+  
+      width: 280px; 
+  
+    } 
+  
+    .har p{ 
+  
+      margin-left: 30px; 
+  
+    } 
+  
+  } 
+  
+  @media screen and (max-width:540px){ 
+  
+    .img4 img{ 
+  
+      width: 400px; 
+  
+    } 
+  
+    .har p{ 
+  
+      margin-left: 10px; 
+  
+    } 
+  
+    .iv h6{ 
+  
+      font-size: 11px; 
+  
+    } 
+  
+    .img3 img{ 
+  
+      width: 400px; 
+  
+    } 
+  
+    .iv{ 
+  
+      font-size: 10px; 
+  
+      padding-top: 50px; 
+  
+      margin-left: -50px; 
+  
+    } 
+  
+    .imgg img{ 
+  
+      width: 230px; 
+  
+      height: 200px; 
+  
+      margin-left: 150px; 
+  
+    } 
+  
+    .img2 img{ 
+  
+      margin-top: -4s0px; 
+  
+      margin-left: -220px; 
+  
+    } 
+  
+    .usb{ 
+  
+      margin-left: -200px; 
+  
+      margin-top: 200px; 
+  
+    } 
+  
+    .usbb{ 
+  
+      margin-left: 180px; 
+  
+      margin-top: 210px; 
+  
+    } 
+  
+  } 
+  
+  @media screen and (max-width:480px){ 
+  
+    .har p{ 
+  
+      width: 300px; 
+  
+      font-size: 9px; 
+  
+      margin-left: 100px; 
+  
+    } 
+  
+    .img4 img{ 
+  
+      width: 350px; 
+  
+    } 
+  
+  } 
+  
+  @media screen and (max-width:415px){ 
+  
+    .img4 img{ 
+  
+      width: 300px; 
+  
+      margin-left: 50px; 
+  
+    } 
+  
+    .har p{ 
+  
+      margin-left: 50px; 
+  
+    } 
+  
+    .iv{ 
+  
+      margin-left: -50px; 
+  
+    } 
+  
+    .img3 img{ 
+  
+      width: 300px; 
+  
+    } 
+  
+    .imgg img{ 
+  
+      width: 230px; 
+  
+      height: 200px; 
+  
+      margin-left: 90px; 
+  
+    } 
+  
+    .img2 img{ 
+  
+      margin-top: -4s0px; 
+  
+      margin-left: -220px; 
+  
+    } 
+  
+    .usb{ 
+  
+      margin-left: -200px; 
+  
+      margin-top: 200px; 
+  
+    } 
+  
+    .usbb{ 
+  
+      margin-left: 120px; 
+  
+      margin-top: 210px; 
+  
+    } 
+  
+  } 
+  
+  @media screen and (max-width:480px){ 
+  
+    .modely{ 
+  
+      display: none; 
+  
+    } 
+  
+  } 
+  
+  @media screen and (max-width:380px){ 
+  
+     
+  
+  } 

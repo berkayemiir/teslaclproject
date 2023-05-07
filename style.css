@@ -1,0 +1,433 @@
+.begin{ 
+
+   
+
+    height: 800px; 
+  
+  } 
+  
+  .nav{ 
+  
+    position: fixed; 
+  
+    top: 0; 
+  
+    z-index: 1; 
+  
+  } 
+  
+   
+   
+  
+  .nav a{ 
+    margin-top: 10px;
+    font-weight: bold; 
+  
+  } 
+
+  
+  .modely{ 
+  
+    position: relative; 
+  
+    top: -350px; 
+  
+    color: white; 
+  
+  } 
+  
+  .men{ 
+  
+    position: relative; 
+  
+    top: -340px; 
+  
+    left: 300px; 
+  
+    color: #ffffff; 
+  
+     
+  
+  } 
+  
+  .men .content{ 
+  
+    margin-left: 50px; 
+  
+  } 
+  .four .carousel-item img{
+    margin-top: -100px;
+  }
+  .threee img{
+    margin-top: -100px;
+  }
+  .threee .modely{
+    margin-top: 150px;
+    color: #581313;
+  }
+  .threee .modely a{
+    
+    color: #581313;
+  }
+  .my .modely{
+    margin-top: 50px;
+    color: #581313;
+  }
+  .my .modely a{
+    
+    color: #581313;
+  }
+  .mx .modely{
+    margin-top: 50px;
+    color: #581313;
+  }
+  .mx .modely a{
+    
+    color: #581313;
+  }
+  .ms .modely{
+    margin-top: 50px;
+    color: #581313;
+  }
+  .ms .modely a{
+    
+    color: #581313;
+  }
+  
+  .men button{ 
+  
+    width: 250px; 
+  
+    height: 40px; 
+  
+    opacity: 0.3; 
+  
+    color: rgb(0, 0, 0); 
+  
+     
+  
+  } 
+  
+  .men .btn{ 
+  
+    border: none; 
+  
+  } 
+  
+  .pp{ 
+  
+    margin-top: -15px; 
+  
+  } 
+  
+  .begin img{ 
+  
+    width: 100%; 
+  
+  } 
+  
+  .modely a{ 
+    
+    color: #ffffff; 
+  
+  } 
+  
+  .carousel{ 
+  
+    margin-top: 20px; 
+  
+    height: 800px; 
+  
+  } 
+  
+  .carousel-inner{ 
+    margin-top: 0px;
+    height: 800px; 
+  
+  } 
+  .in{
+    margin-top: 50px;
+  }
+  
+  .collapse a{ 
+  
+    color: #333; 
+  
+  } 
+  
+  .carousel-item img{ 
+  
+    height: 1000px; 
+    z-index: 1;
+  
+  } 
+  
+  .two .nav-link{ 
+  
+    color: white; 
+  
+  } 
+  
+  .two .navbar-brand{ 
+  
+    color: white; 
+  
+  } 
+  
+  .one .nav-link:hover{ 
+  
+    color: rgb(154, 10, 10); 
+  
+  } 
+  
+  .one .navbar-brand:hover{ 
+  
+    color: rgb(154, 10, 10); 
+  
+  } 
+  
+  .two .nav-link:hover{ 
+  
+    color: #333; 
+  
+  } 
+  
+  .two .navbar-brand:hover{ 
+  
+    color: #444; 
+  
+  } 
+  
+  .two .nav-link{ 
+  
+    color:rgb(154, 10, 10) ; 
+  
+  } 
+  
+  .two .navbar-brand{ 
+  
+    color: rgb(154, 10, 10) ; 
+  
+  } 
+  
+  .men{ 
+  
+    z-index: 1; 
+  
+  } 
+  
+  .men h1{ 
+  
+    color: white; 
+  
+  } 
+  
+  .ic h1{ 
+  
+    text-align: center; 
+  
+    color: white; 
+  
+    font-weight: bold; 
+  
+    padding-top: 55px; 
+  
+  } 
+  
+  .ic{ 
+  
+    background-color: #000000; 
+  
+    height: 150px; 
+  
+  } 
+  
+  .slide{ 
+  
+    margin-top: -10px; 
+  
+  } 
+  
+  .slidd{ 
+  
+    margin-top: 20px; 
+  
+  } 
+  
+  .navvv a{ 
+  
+    margin-top: -10px; 
+  
+    font-weight: bold; 
+  
+  } 
+  
+  .imgg{ 
+  
+    background-color: #000000; 
+  
+  } 
+  
+  .imgg img{ 
+  
+    width: 500px; 
+  
+    height: 350px; 
+  
+    padding-top: 50px; 
+  
+    margin-left: 200px; 
+  
+  } 
+  
+  .usb{ 
+  
+    margin-left: 70px; 
+  
+    margin-top: 250px; 
+  
+    color: white; 
+  
+  } 
+  
+  .usbb{ 
+  
+    margin-left: 200px; 
+  
+    margin-top: 130px; 
+  
+    color: white; 
+  
+  } 
+  
+  .img2 img{ 
+  
+    margin-left: 100px; 
+  
+  } 
+  
+  .img3 img{ 
+  
+    width: 700px; 
+  
+    padding-top: 150px; 
+  
+  } 
+  
+  .oz .content{ 
+  
+    color: #ffffff; 
+  
+     
+  
+  } 
+  
+  .oz button{ 
+  
+    width: 250px; 
+  
+    margin-bottom: 20px; 
+  
+    color: rgb(0, 0, 0); 
+  
+    opacity: 0.5; 
+  
+    border: none; 
+  
+  } 
+  
+  .iv{ 
+  
+    padding-top: 150px; 
+  
+    margin-left: 200px; 
+  
+  } 
+  
+  .gun{ 
+  
+    background-color: rgb(255, 255, 255); 
+  
+  } 
+  
+  .img4 img{ 
+  
+    width: 600px; 
+  
+    margin-left: 400px; 
+  
+    margin-top: 200px; 
+  
+  } 
+  
+  .ss{ 
+  
+    margin-left: 100px; 
+  
+    margin-top: 350px; 
+  
+  } 
+  
+  .ss button{ 
+  
+    width: 250px; 
+  
+    height: 40px; 
+  
+    margin-top: 20px; 
+  
+    background-color: #ffffff; 
+  
+    border: 3px solid black; 
+  
+    border-radius: 5px; 
+  
+  } 
+  
+  .har p{ 
+  
+    font-size: 13px; 
+  
+    padding-top: 200px; 
+  
+    text-align: center; 
+  
+  } 
+  
+  .har p a{ 
+  
+    color: #000000; 
+  
+  } 
+  
+  .tes .tess{ 
+  
+    margin-left: 490px; 
+  
+    margin-top: 100px; 
+  
+  } 
+  
+  .tess .content{ 
+  
+    margin-left: 20px; 
+  
+  } 
+  
+  .tes a{ 
+  
+    display: block; 
+  
+    text-decoration: none; 
+  
+    color: rgb(0, 0, 0); 
+  
+    font-weight: 11px; 
+  
+  } 
+  
+  .tess a{ 
+  
+    text-align: center; 
+  
+  } 
